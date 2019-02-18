@@ -1,0 +1,17 @@
+{
+  "name": "basic-bootstrap-site",
+  "homepage": "https://github.com/valhakis/basic-bootstrap-site",
+  "authors": [
+    "valhakis <william.valhakis@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
