@@ -1,0 +1,12 @@
+{
+    "name": "valhakis/basic-bootstrap-site",
+    "authors": [
+        {
+            "name": "valhakis",
+            "email": "william.valhakis@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.6"
+    }
+}
