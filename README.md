@@ -2,4 +2,6 @@
 
 ## Requirements
 
+* jQuery
+* Bootstrap
 * Twig
